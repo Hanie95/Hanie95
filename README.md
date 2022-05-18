@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanie95, a project manager at TouchNetix
+- 👋 Hi, I’m @Hanie95
 - 👀 I’m interested in python, data science 
 - 🌱 I’m currently learning python, data science, powerBI and Scrum 
 - 📫 How to reach me, send me an email on haniehshahrabifarahani@gmail.com or reach out to me on https://www.linkedin.com/in/haniehfarahani/
